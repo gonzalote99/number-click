@@ -1,0 +1,19 @@
+h1 {
+  color: orange;
+}
+
+td {
+ background-color: green;
+ height: 3em;
+ width: 3em; 
+}
+
+h2 {
+  color: red;
+}
+
+.score {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
